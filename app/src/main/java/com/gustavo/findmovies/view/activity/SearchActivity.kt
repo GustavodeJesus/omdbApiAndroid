@@ -34,11 +34,9 @@ class SearchActivity :
 
 
     override fun showPlate() {
-        Toast.makeText(this, "Trouxe Dados", Toast.LENGTH_SHORT).show()
     }
 
     override fun hidePlate() {
-        Toast.makeText(this, "Não Trouxe Dados", Toast.LENGTH_SHORT).show()
     }
 
     override fun showRes(movieList: List<Movies>) {

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMovies</string>
+    <string name="detail_movie">Detail Movie</string>
+</resources>
